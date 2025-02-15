@@ -1,4 +1,8 @@
-# SIE
-Secure Image Encryption
+# SIE(Secure Image Encryption)
 
-个人node_js练手项目
+个人前端与node_js练手项目
+
+## 项目介绍
+SIE是一款网页图片加解密项目，目的是为了防止存在云的图片因各种不可抗力而和谐。项目分为前端和后端，前端是自带解密的瀑布流照片墙，后端则是负责鉴权以及图片网址的上传。
+
+## 项目架构
